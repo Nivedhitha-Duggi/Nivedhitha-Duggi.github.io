@@ -1,0 +1,65 @@
+/* body {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+} */
+
+body {
+  background-color: #edcdf0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #36454f;
+}
+
+.mainDiv {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+}
+.container {
+  margin: 1rem 10% 0;
+  width: 100%;
+}
+.container-heading {
+  /* text-align: center; */
+  font-size: 20px;
+  margin: 20px 0%;
+}
+.items-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  padding: 0;
+  margin: 0;
+}
+.item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* width: 15%; */
+  height: 80px;
+}
+.item-icon {
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+/* #map-icon {
+  background-color: #ffe6df;
+}
+#coin-icon {
+  background-color: #dff0fe;
+}
+#comparison-icon {
+  background-color: #fcf3df;
+}
+#laptop-icon {
+  background-color: #eff2ff;
+} */
+.item-details {
+  font-size: 17px;
+  text-align: center;
+  padding: 13px 30px 0 10px;
+  font-weight: 550;
+}
