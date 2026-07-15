@@ -32,8 +32,8 @@ const journeyRegions = {
     body:"My U.S. chapter brought together research and engineering: healthcare LLM evaluation, viral diagnostics, enterprise AI, HVAC R&D, and broadband network automation.",
     stats:[["3","Research labs"],["2","Industry domains"],["94%","Diagnostic accuracy"]],
     stops:[
-      ["2026","NOKIA · DALLAS","Fixed Networks Customer Engineering","Intent-driven validation, SDN automation, WiFi 7 service integration, and production incident support across FTTH/GPON infrastructure.","−80% manual validation effort","nokia"],
-      ["2025","LENNOX INTERNATIONAL · CARROLLTON","Software Engineering · Product R&D","Worked across HVAC validation, edge AI, smart thermostat intelligence, enterprise assistants, and AI-enabled dealer workflows.","17,000+ returns analyzed · 22% fewer repeat failures","lennox"],
+      ["2026","NOKIA · DALLAS","Fixed Networks Customer Engineer","Intent-driven validation, SDN automation, WiFi 7 service integration, and production incident support across FTTH/GPON infrastructure.","−80% manual validation effort","nokia"],
+      ["2025","LENNOX INTERNATIONAL · CARROLLTON","Software Engineer · Product R&D","Worked across HVAC validation, edge AI, smart thermostat intelligence, enterprise assistants, and AI-enabled dealer workflows.","17,000+ returns analyzed · 22% fewer repeat failures","lennox"],
       ["2024","UNIVERSITY OF NORTH TEXAS · DENTON","Three Research Labs. Three Different Questions.","Healthcare LLM fairness, LLM-driven medical assessment, and heterogeneous cloud benchmarking across cost, latency, energy, and carbon.","VISTA · arXiv publication · Responsible AI","research"],
       ["2024","EXPONENTIAL AI · ATLANTA","Applied AI for Healthcare Documents","Built multimodal document intelligence using transformer QA, local LLM retrieval, layout-aware models, object detection, and tabular understanding.","+49% extraction speed","exponential"]
     ]
@@ -55,7 +55,7 @@ const journeyDetails = {
   nokia:{
     team:"FIXED NETWORKS · UNITED STATES",
     title:"Intent-driven network automation at Nokia.",
-    body:"I worked within Fixed Networks Customer Engineering on software and automation problems around broadband service validation, network state, incident response, and next-generation residential connectivity.",
+    body:"I worked within Network Infrastructure Fixed Networks Customer Engineering Team on software and automation problems around broadband service validation, network state, incident response, and next-generation residential connectivity.",
     work:[
       "Built intent-driven network and test automation for Altiplano FTTH/GPON environments.",
       "Compared expected service intent with real-time network configuration to identify drift and validation failures.",
